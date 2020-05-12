@@ -1,0 +1,34 @@
+
+#inscript {padding: 1em;
+    background-color: brown;
+    border-radius: 1em;}
+
+#info {border-radius: 1em;
+    background-color: violet;
+    padding: 2ch;
+    }
+
+#pret {border-radius: 1em;
+        background-color: slategray;
+    }
+
+h1 {color: #1111b4;
+    background-color: yellow;}
+
+    .principale {
+        list-style: cross-fade();
+    }
+
+    .secondaire{
+        list-style: square ;
+    }
+    img {width: 250px;
+    padding: 1em;}
+
+    .gris {
+        background-color: rgb(150, 144, 150);
+        border-radius: 1em;
+        box-shadow: 4em;
+        border: solid 4px black;
+        margin: 20px;
+    }
